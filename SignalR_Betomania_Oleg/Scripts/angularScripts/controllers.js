@@ -40,13 +40,7 @@ myApp.controller('SignalRCtrl', function  ($scope,$window) {
         };
 
         function cleanChat() {
-             $('#chat').empty();
-          
+             $('#chat').empty();        
         }
-
-
-
     };
-
-
 })
