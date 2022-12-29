@@ -30,15 +30,5 @@ namespace SignalR_Betomania_Oleg.Controllers
         {
             return View();
         }
-
-        public ActionResult ChatFamily()
-        {
-            return View();
-        }
-
-        public ActionResult ChatFriends()
-        {
-            return View();
-        }
     }
 }
