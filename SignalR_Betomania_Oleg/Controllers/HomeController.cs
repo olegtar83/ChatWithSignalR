@@ -26,6 +26,7 @@ namespace SignalR_Betomania_Oleg.Controllers
 
             return View();
         }
+        
         public ActionResult Chat()
         {
             return View();
